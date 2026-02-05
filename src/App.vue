@@ -5,4 +5,8 @@
   <button>Generate DP</button>
 </template>
 
-<style scoped></style>
+<style scoped>
+body {
+  background-image: url('image-path.jpg');
+}
+</style>
