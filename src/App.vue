@@ -2,7 +2,7 @@
 
 <template>
   <h1>MaslaWay Launch DP Generator</h1>
-  <button>Generate DP</button>
+  <button>Generate Launch Fellowship DP</button>
 </template>
 
 <style scoped>
